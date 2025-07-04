@@ -1,5 +1,5 @@
 For future updates:
 
-git add .
-git commit -m "Comments"
+git add . <br>
+git commit -m "Comments" <br>
 git push
